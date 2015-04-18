@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 If anyone would like to add project ideas to this file to share with the group
 
 
@@ -39,3 +40,6 @@ place pic here
                                                         add about me description here for each team member
 
 and maybe there is a way to include the top paragraph in the home or (index) page of the site, and having a developers page all of its own 
+=======
+If anyone would like to add project ideas to this file to share with the group
+>>>>>>> origin/master
