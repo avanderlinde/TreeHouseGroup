@@ -57,6 +57,7 @@ BASIC STYLES
 
 .dlxNav,
 .dlxNavFixed {
+    text-align: right;
   /* POSITIONING */
   
   left: -300px;
@@ -64,6 +65,7 @@ BASIC STYLES
 
 .dlxNavRight,
 .dlxNavFixedRight {
+    text-align: left;
   /* POSITIONING */
   
   right: -300px;
