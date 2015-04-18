@@ -1,0 +1,117 @@
+/*
+--------------------------------------
+.container
+sections the page horizontally. You'll need a few of these 
+to break up the content, and you can use them in your main 
+wrapper, or within other divs.
+-
+-
+.container:before/:after
+solves floating problems, by forcing the section to self 
+clear its children (aka the clearfix hack). This is good in 
+Firefox 3.5+, Safari 4+, Chrome, Opera 9+ and IE 6+.
+-
+-
+[class^="span"]
+divides the .container into columns. Each column has a left 
+margin of 1.6% (around 20 pixels on a normal monitor), 
+except the first one. This is done automatically using .[class^="span"]:first-child { margin-left: 0; }.
+It works in all browsers since IE6.
+-
+-
+.span(#)
+specifies the width of the column. 
+Using percentages means it's 100% fluid.
+-
+-
+@media queries
+as soon as the screen size gets less than 480 pixels 
+the columns stack and the margins disappear.
+--------------------------------------
+*/
+/*
+--------------------------------------
+----------------------------------------------------- FLUID GRID
+--------------------------------------
+*/
+
+.container {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: .5em 1em;
+  position: relative;
+}
+
+.wrapper {
+  overflow: hidden;
+}
+/* ---------------
+CLEAR FIX HACK 
+--------------- */
+
+.container:before,
+.container:after {
+  content: "";
+  display: table;
+}
+
+.container:after {
+  clear: both;
+}
+
+.container {
+  zoom: 1;
+  /* For IE 6/7 */
+}
+/*
+MANAGE SPAN COLUMNS
+-------------------------------------- */
+
+[class^="span"] {
+  display: block;
+  margin: 0 0 0 1.6%;
+  position: relative;
+  float: left;
+}
+
+[class^="span"]:first-child {
+  margin-left: 0;
+}
+/*
+6 GRID WIDTH % BREAKDOWN
+-------------------------------------- */
+.container,
+.wrapper,
+.span6 {
+  width: 100%;
+}
+
+.span5 {
+  width: 83.06%;
+}
+
+.span4 {
+  width: 66.13%;
+}
+
+.span3 {
+  width: 49.2%;
+}
+
+.span2 {
+  width: 32.26%;
+}
+
+.span1 {
+  width: 15.33%;
+}
+/*
+FULL WIDTH > 480 PIXELS
+-------------------------------------- */
+
+@media only screen and (max-width: 480px) {
+  [class^="span"] {
+    margin: 1% 0 1% 0;
+    width: 100%;
+  }
+}
