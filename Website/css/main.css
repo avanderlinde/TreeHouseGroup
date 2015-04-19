@@ -10,6 +10,11 @@
 #sidebar {
     background: #fa50a4
 }
+
+#footer {
+    background: #8a6bb4;
+}
+
 /*-----------------------------
 D.R.Y. STYLES
 -----------------------------*/
@@ -57,4 +62,11 @@ SIDEBAR CONTENT
 -----------------------------*/
 
 #sidebar {
+}
+
+/*-----------------------------
+FOOTER CONTENT
+-----------------------------*/
+#footer {
+    clear: both;
 }
