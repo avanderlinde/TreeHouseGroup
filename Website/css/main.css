@@ -1,1 +1,60 @@
-/* css file
+#banner {
+    background: #333;
+    color: #fff;
+}
+
+#main {
+    background: #09a399;
+}
+
+#sidebar {
+    background: #fa50a4
+}
+/*-----------------------------
+D.R.Y. STYLES
+-----------------------------*/
+
+#main,
+#sidebar {
+    height: 500px;
+}
+
+/*-----------------------------
+BANNER CONTENT
+-----------------------------*/
+#banner {
+    overflow: hidden;
+    padding: 20px;
+    text-align: center;
+}
+
+#banner h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+
+.vAlign {
+    display: table;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.vAlign > .entry {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+/*-----------------------------
+MAIN CONTENT
+-----------------------------*/
+#main {
+}
+
+/*-----------------------------
+SIDEBAR CONTENT
+-----------------------------*/
+
+#sidebar {
+}
