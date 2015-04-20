@@ -1,15 +1,13 @@
-/* CSS for single page website*/
-
 .image2
 {
   background-image : url(image2.png);
   /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
   background-repeat : no-repeat;
   position : absolute ;
-  left : 46px;
-  top : 86px;
-  width : 299px;
-  height : 299px;
+  left : -245px;
+  top : 91px;
+  width : 73px;
+  height : 73px;
 }
 .image1
 {
@@ -17,18 +15,18 @@
   /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
   background-repeat : no-repeat;
   position : absolute ;
-  left : 0px;
-  top : -2px;
-  width : 42px;
-  height : 949px;
+  left : -332px;
+  top : -336px;
+  width : 299px;
+  height : 299px;
 }
 .st0
 {
   background : #6C909F;
   background : rgba(108, 144, 159, 1);
   position : absolute ;
-  left : 41px;
-  top : 358px;
+  left : -338px;
+  top : -64px;
   width : 310px;
   height : 66px;
 }
@@ -38,8 +36,8 @@
   background : rgba(95, 72, 69, 1);
   opacity : 0.8;
   position : absolute ;
-  left : 47px;
-  top : 554px;
+  left : -332px;
+  top : 131px;
   width : 161px;
   height : 161px;
   filter: alpha(opacity=80) progid:DXImageTransform.Microsoft.Alpha(opacity=80) ;
@@ -50,10 +48,10 @@
   /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
   background-repeat : no-repeat;
   position : absolute ;
-  left : 134px;
-  top : 514px;
-  width : 73px;
-  height : 73px;
+  left : -379px;
+  top : -424px;
+  width : 355px;
+  height : 265px;
 }
 .image
 {
@@ -61,8 +59,8 @@
   /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
   background-repeat : no-repeat;
   position : absolute ;
-  left : 5px;
-  top : 66px;
+  left : -373px;
+  top : -356px;
   width : 32px;
   height : 187px;
 }
@@ -72,8 +70,8 @@
   background : rgba(95, 72, 69, 1);
   opacity : 0.8;
   position : absolute ;
-  left : 176px;
-  top : 683px;
+  left : -203px;
+  top : 260px;
   width : 161px;
   height : 161px;
   filter: alpha(opacity=80) progid:DXImageTransform.Microsoft.Alpha(opacity=80) ;
@@ -84,10 +82,10 @@
   /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
   background-repeat : no-repeat;
   position : absolute ;
-  left : 0px;
-  top : -1px;
-  width : 355px;
-  height : 265px;
+  left : -216px;
+  top : 259px;
+  width : 208px;
+  height : 165px;
 }
 .st3
 {
@@ -95,8 +93,8 @@
   background : rgba(95, 72, 69, 1);
   opacity : 0.8;
   position : absolute ;
-  left : 90px;
-  top : 769px;
+  left : -288px;
+  top : 346px;
   width : 161px;
   height : 161px;
   filter: alpha(opacity=80) progid:DXImageTransform.Microsoft.Alpha(opacity=80) ;
@@ -107,8 +105,8 @@
   background : rgba(95, 72, 69, 1);
   opacity : 0.8;
   position : absolute ;
-  left : 175px;
-  top : 512px;
+  left : -204px;
+  top : 89px;
   width : 161px;
   height : 161px;
   filter: alpha(opacity=80) progid:DXImageTransform.Microsoft.Alpha(opacity=80) ;
@@ -119,10 +117,10 @@
   /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
   background-repeat : no-repeat;
   position : absolute ;
-  left : 31px;
-  top : 543px;
-  width : 189px;
-  height : 189px;
+  left : -214px;
+  top : 84px;
+  width : 173px;
+  height : 173px;
 }
 .image7
 {
@@ -130,18 +128,18 @@
   /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
   background-repeat : no-repeat;
   position : absolute ;
-  left : 164px;
-  top : 507px;
-  width : 173px;
-  height : 173px;
+  left : -289px;
+  top : 345px;
+  width : 163px;
+  height : 163px;
 }
 .st5
 {
   background : #6C909F;
   background : rgba(108, 144, 159, 1);
   position : absolute ;
-  left : 90px;
-  top : 726px;
+  left : -289px;
+  top : 303px;
   width : 75px;
   height : 75px;
 }
@@ -150,8 +148,8 @@
   background : #6C909F;
   background : rgba(108, 144, 159, 1);
   position : absolute ;
-  left : 175px;
-  top : 641px;
+  left : -203px;
+  top : 218px;
   width : 75px;
   height : 75px;
 }
@@ -160,24 +158,10 @@
   background : #6C909F;
   background : rgba(108, 144, 159, 1);
   position : absolute ;
-  left : 90px;
-  top : 470px;
+  left : -289px;
+  top : 47px;
   width : 75px;
   height : 75px;
-}
-.st8
-{
-  background : #FFFFFF;
-  background : rgba(255, 255, 255, 1);
-  border-style : Solid;
-  border-color : #000000;
-  border-color : rgba(0, 0, 0, 1);
-  border-width : 1px;
-  position : absolute ;
-  left : 90px;
-  top : 769px;
-  width : 161px;
-  height : 161px;
 }
 .image5
 {
@@ -185,18 +169,18 @@
   /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
   background-repeat : no-repeat;
   position : absolute ;
-  left : 162px;
-  top : 682px;
-  width : 208px;
-  height : 165px;
+  left : -348px;
+  top : 120px;
+  width : 189px;
+  height : 189px;
 }
-.st9
+.st8
 {
   background : #4F5C6C;
   background : rgba(79, 92, 108, 1);
   position : absolute ;
-  left : 132px;
-  top : 684px;
+  left : -246px;
+  top : 261px;
   width : 75px;
   height : 75px;
 }
