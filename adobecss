@@ -5,7 +5,7 @@
   background-repeat : no-repeat;
   position : absolute ;
   left : 46px;
-  top : 122px;
+  top : 86px;
   width : 299px;
   height : 299px;
 }
@@ -26,7 +26,7 @@
   background : rgba(108, 144, 159, 1);
   position : absolute ;
   left : 41px;
-  top : 393px;
+  top : 358px;
   width : 310px;
   height : 66px;
 }
