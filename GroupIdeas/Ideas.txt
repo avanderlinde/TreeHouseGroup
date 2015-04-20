@@ -43,3 +43,10 @@ and maybe there is a way to include the top paragraph in the home or (index) pag
 =======
 If anyone would like to add project ideas to this file to share with the group
 >>>>>>> origin/master
+
+--------------------------------------------------------------Idea for header image ---------------------------------------------------------------------------
+
+I was thinking that we could add a slider to the header image to rotate threw more then one image 
+
+---------------------------------------------------------------sample.js---------------------------------------------------------------------------------------
+holds code for the removal of fadded profile image and dom manipulation code to add boi to the page 
