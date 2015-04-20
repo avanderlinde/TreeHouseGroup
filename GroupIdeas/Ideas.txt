@@ -1,52 +1,12 @@
 <<<<<<< HEAD
 If anyone would like to add project ideas to this file to share with the group
 
-
-------------------------------------------------------------------------Idea from ray----------------------------------------------------------------------------------------------------
-
- idea for txt inthe place holder page
-                                                                     Under Development
-
-                                                                        GeekVenom.com
-
-                                                             Is a team project built by Treehouse students, 
-                    Designed to expand our knowledge in technology,working collaboratively and independently while building a platform to showcase our newly found skills and passions.
-                                  Using the most current and up to date tools in web design and development available today.
-
-                                                                Come meet the team
-                                                                        |
-                                                                        |
-                                                                        |
-                                                                        |
-                                                                       \/
-
-                                                                 WE ARE GEEKVENOM
-
-
-place pic here 
-                                                          add about me description here for each team member
-
-
-place pic here 
-                                                         add about me description here for each team member
-
-
-
-place pic here 
-                                                        add about me description here for each team member
-
-
-place pic here 
-                                                        add about me description here for each team member
-
-and maybe there is a way to include the top paragraph in the home or (index) page of the site, and having a developers page all of its own 
-=======
-If anyone would like to add project ideas to this file to share with the group
->>>>>>> origin/master
-
 --------------------------------------------------------------Idea for header image ---------------------------------------------------------------------------
 
 I was thinking that we could add a slider to the header image to rotate threw more then one image 
 
 ---------------------------------------------------------------sample.js---------------------------------------------------------------------------------------
 holds code for the removal of fadded profile image and dom manipulation code to add boi to the page 
+                       
+>>>>>>> origin/master
+
