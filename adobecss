@@ -1,0 +1,200 @@
+.image2
+{
+  background-image : url(image2.png);
+  /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 46px;
+  top : 122px;
+  width : 299px;
+  height : 299px;
+}
+.image1
+{
+  background-image : url(image1.png);
+  /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 0px;
+  top : -2px;
+  width : 42px;
+  height : 949px;
+}
+.st0
+{
+  background : #6C909F;
+  background : rgba(108, 144, 159, 1);
+  position : absolute ;
+  left : 41px;
+  top : 393px;
+  width : 310px;
+  height : 66px;
+}
+.st1
+{
+  background : #5F4845;
+  background : rgba(95, 72, 69, 1);
+  opacity : 0.8;
+  position : absolute ;
+  left : 47px;
+  top : 554px;
+  width : 161px;
+  height : 161px;
+  filter: alpha(opacity=80) progid:DXImageTransform.Microsoft.Alpha(opacity=80) ;
+}
+.image3
+{
+  background-image : url(image3.png);
+  /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 134px;
+  top : 514px;
+  width : 73px;
+  height : 73px;
+}
+.image
+{
+  background-image : url(image.png);
+  /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 5px;
+  top : 66px;
+  width : 32px;
+  height : 187px;
+}
+.st2
+{
+  background : #5F4845;
+  background : rgba(95, 72, 69, 1);
+  opacity : 0.8;
+  position : absolute ;
+  left : 176px;
+  top : 683px;
+  width : 161px;
+  height : 161px;
+  filter: alpha(opacity=80) progid:DXImageTransform.Microsoft.Alpha(opacity=80) ;
+}
+.image4
+{
+  background-image : url(image4.png);
+  /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 0px;
+  top : -1px;
+  width : 355px;
+  height : 265px;
+}
+.st3
+{
+  background : #5F4845;
+  background : rgba(95, 72, 69, 1);
+  opacity : 0.8;
+  position : absolute ;
+  left : 90px;
+  top : 769px;
+  width : 161px;
+  height : 161px;
+  filter: alpha(opacity=80) progid:DXImageTransform.Microsoft.Alpha(opacity=80) ;
+}
+.st4
+{
+  background : #5F4845;
+  background : rgba(95, 72, 69, 1);
+  opacity : 0.8;
+  position : absolute ;
+  left : 175px;
+  top : 512px;
+  width : 161px;
+  height : 161px;
+  filter: alpha(opacity=80) progid:DXImageTransform.Microsoft.Alpha(opacity=80) ;
+}
+.image6
+{
+  background-image : url(image6.png);
+  /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 31px;
+  top : 543px;
+  width : 189px;
+  height : 189px;
+}
+.image7
+{
+  background-image : url(image7.png);
+  /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 164px;
+  top : 507px;
+  width : 173px;
+  height : 173px;
+}
+.st5
+{
+  background : #6C909F;
+  background : rgba(108, 144, 159, 1);
+  position : absolute ;
+  left : 90px;
+  top : 726px;
+  width : 75px;
+  height : 75px;
+}
+.st6
+{
+  background : #6C909F;
+  background : rgba(108, 144, 159, 1);
+  position : absolute ;
+  left : 175px;
+  top : 641px;
+  width : 75px;
+  height : 75px;
+}
+.st7
+{
+  background : #6C909F;
+  background : rgba(108, 144, 159, 1);
+  position : absolute ;
+  left : 90px;
+  top : 470px;
+  width : 75px;
+  height : 75px;
+}
+.st8
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+  border-style : Solid;
+  border-color : #000000;
+  border-color : rgba(0, 0, 0, 1);
+  border-width : 1px;
+  position : absolute ;
+  left : 90px;
+  top : 769px;
+  width : 161px;
+  height : 161px;
+}
+.image5
+{
+  background-image : url(image5.png);
+  /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 162px;
+  top : 682px;
+  width : 208px;
+  height : 165px;
+}
+.st9
+{
+  background : #4F5C6C;
+  background : rgba(79, 92, 108, 1);
+  position : absolute ;
+  left : 132px;
+  top : 684px;
+  width : 75px;
+  height : 75px;
+}
