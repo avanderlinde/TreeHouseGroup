@@ -5,7 +5,7 @@ var imageNumber;
 
 function init(){
 
-    ul = document.getElementById(‘image_slider’);
+    ul = document.getElementById(‘slider’);
     liItems = ul.children;
     imageNumber = liItems.length;
     imageWidth = liItems[0].children[0].offsetWidth;
