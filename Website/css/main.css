@@ -1,67 +1,57 @@
-#banner {
-    background: #333;
+/* COLOR PALETTE
+===================================*/
+nav {
+    background: #5F4845;
+}
+
+nav a {
+    color: #9F726C;
+}
+
+nav a:hover,
+.active {
     color: #fff;
+    text-shadow: 0 2px 5px rgba(0,0,0, .2);
 }
 
-#main {
-    background: #09a399;
+/* UNIVERAL STYLES
+===================================*/
+
+/*TRANSITIONS*/
+nav a {
+    transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -webkit-transition: all .3s ease;
 }
 
-#sidebar {
-    background: #fa50a4
+.wrapper {
+    margin-left: 60px;
+    width: 100%;
+    background: red;
 }
 
-#footer {
-    background: #8a6bb4;
-}
-/*-----------------------------
-D.R.Y. STYLES
------------------------------*/
 
-#main,
-#sidebar {
-    height: 500px;
-}
-/*-----------------------------
-BANNER CONTENT
------------------------------*/
+/* SIDE NAV
+===================================*/
 
-#banner {
-    overflow: hidden;
-    padding: 20px;
-    text-align: center;
-}
-
-#banner h1 {
-    font-size: 2.5em;
-    margin-bottom: 20px;
-    text-transform: uppercase;
-}
-
-.vAlign {
+nav {
     display: table;
-    height: 400px;
-    margin: 0 auto;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    width: 60px;
 }
 
-.vAlign > .entry {
+nav ul {
     display: table-cell;
+    text-align: center;
     vertical-align: middle;
 }
-/*-----------------------------
-MAIN CONTENT
------------------------------*/
 
-#main {}
-/*-----------------------------
-SIDEBAR CONTENT
------------------------------*/
-
-#sidebar {}
-/*-----------------------------
-FOOTER CONTENT
------------------------------*/
-
-#footer {
-    clear: both;
+nav li:not(:first-child) {
+    margin-top: 30px;
 }
+
+/* MAIN CONTENT
+===================================*/
